@@ -6,7 +6,7 @@ const Header = () => {
         <div className="w-64 min-h-full bg-orange-400">
 
             <ul className="menu">
-                <li><NavLink to="/dashboard/card">My dashboard</NavLink> </li>
+                <li><NavLink to="/dashboard/card">My dashboard!</NavLink> </li>
             </ul>
         </div>
         <div>
